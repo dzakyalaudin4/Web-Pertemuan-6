@@ -1,8 +1,8 @@
 # Praktikum6
 
-Nama  : Dimas Aditya Putranto
+Nama  : Dzaky Alaudin Malik
 
-NIM   : 312210489
+NIM   : 312210495
 
 Kelas : TI.22.A5
 
